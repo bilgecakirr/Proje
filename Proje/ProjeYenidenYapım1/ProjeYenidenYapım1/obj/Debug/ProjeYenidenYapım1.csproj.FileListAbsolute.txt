@@ -1,0 +1,15 @@
+D:\m\Me\ProjeYenidenYapım1\ProjeYenidenYapım1\bin\Debug\ProjeYenidenYapım1.exe.config
+D:\m\Me\ProjeYenidenYapım1\ProjeYenidenYapım1\bin\Debug\ProjeYenidenYapım1.exe
+D:\m\Me\ProjeYenidenYapım1\ProjeYenidenYapım1\bin\Debug\ProjeYenidenYapım1.pdb
+D:\m\Me\ProjeYenidenYapım1\ProjeYenidenYapım1\obj\Debug\ProjeYenidenYapım1.Form1.resources
+D:\m\Me\ProjeYenidenYapım1\ProjeYenidenYapım1\obj\Debug\ProjeYenidenYapım1.Properties.Resources.resources
+D:\m\Me\ProjeYenidenYapım1\ProjeYenidenYapım1\obj\Debug\ProjeYenidenYapım1.csproj.GenerateResource.Cache
+D:\m\Me\ProjeYenidenYapım1\ProjeYenidenYapım1\obj\Debug\ProjeYenidenYapım1.exe
+D:\m\Me\ProjeYenidenYapım1\ProjeYenidenYapım1\obj\Debug\ProjeYenidenYapım1.pdb
+D:\m\Me\ProjeYenidenYapım1\ProjeYenidenYapım1\obj\Debug\ProjeYenidenYapım1.Form2.resources
+D:\m\Me\ProjeYenidenYapım1\ProjeYenidenYapım1\obj\Debug\ProjeYenidenYapım1.Anasayfa.resources
+D:\m\Me\ProjeYenidenYapım1\ProjeYenidenYapım1\obj\Debug\ProjeYenidenYapım1.Dersprogramım.resources
+D:\m\Me\ProjeYenidenYapım1\ProjeYenidenYapım1\obj\Debug\ProjeYenidenYapım1.csprojResolveAssemblyReference.cache
+D:\m\Proje\ProjeYenidenYapım1\ProjeYenidenYapım1\bin\Debug\ProjeYenidenYapım1.exe.config
+D:\m\Proje\ProjeYenidenYapım1\ProjeYenidenYapım1\obj\Debug\ProjeYenidenYapım1.exe
+D:\m\Proje\ProjeYenidenYapım1\ProjeYenidenYapım1\obj\Debug\ProjeYenidenYapım1.pdb
